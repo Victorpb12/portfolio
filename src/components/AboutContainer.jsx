@@ -1,15 +1,30 @@
 const AboutContainer = () => {
     return (
     <section className='about-container'>
-        <h2>Um pouco sobre mim</h2>
-        <p>Tenho 19 anos, nascido e criado no Paraná, hoje moro em Concórdia, Santa Catarina.</p>
-        <p>Ingressei no mundo da programação em janeiro de 2022, trabalhei no começo com Flutter desenvolvendo aplicativos mobile. Dei manutenção em um projeto react e ajudei na manutenção e refatoração em um sistema feito em Delphi, HTML e bootstrap. Trabalhei com versionamento de código através do gitlab e organização de tarefas com Trello.</p>
-        <p>Fui suporte por um tempo, adiquirindo nesse período um breve conhecimento sobre sistemas de ERP e comunicação com clientes.</p>
+        <h2>🚀 Sobre Mim</h2>
+        <p>Oi, sou Victor, um entusiasta de 19 anos da programação, originalmente do Paraná e atualmente residindo em Concórdia, Santa Catarina.</p>
+        <h2>👨‍💻 Experiência Profissional</h2>
+        <p>Iniciei minha jornada na programação em janeiro de 2022, explorando inicialmente o universo do Flutter para o desenvolvimento de aplicativos móveis. Ao longo do caminho, participei da manutenção de projetos React, contribuí para a refatoração de sistemas construídos em Delphi, HTML e Bootstrap, e ganhei proficiência no versionamento de código usando o GitLab. Minha atuação incluiu a organização eficiente de tarefas com o auxílio do Trello.</p>
+        <h2>🎓 Formação Acadêmica</h2>
         <p>
-            Sou formando em Análise e desenvolvimento de sistemas pela Unopar, 
-            tendo começado na mesma em 2023 com previsão de término em 2025.
+        Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unopar, com início em 2023 e previsão de conclusão em 2025. 
         </p>
-        <p>Atualmente trabalho desenvolvendo relatórios personalizados para os clientes da empresa usando a ferramenta FastReport para geração e PostgreSQL para retorno dos dados, tendo assim adquirido um vasto conhecimento sobre a ferramenta e banco de dados. É usado juntamente do FastReport o Pascal para fazer algumas tratativas necessárias, como passagem de paramêtros, funções e etc. Mas claro que como qualquer área da programação, ainda tenho muito que aprender sobre tudo e todas as linguagens que estudo.</p>
+        <h2>🛠️ Expertise Técnica</h2>
+        <p>Ao longo de 9 meses, desempenhei um papel fundamental no desenvolvimento de relatórios personalizados para clientes, utilizando ferramentas como FastReport para geração e PostgreSQL para manipulação de dados. Aprofundei meu conhecimento em Pascal para tratamentos específicos, como passagem de parâmetros e funções. A experiência me proporcionou uma compreensão sólida dessas tecnologias, mas estou sempre ansioso para aprender mais e expandir meu domínio em diversas linguagens de programação.
+        </p>
+        <p>Atualmente trabalho no desenvolvimento Front-end Web, com expertise em React, Typescript, Redux Toolkit e MUI. Proficiente no uso de ferramentas como Postman e Git para garantir a qualidade e colaboração em projetos.</p>
+        <h2>🔧 Habilidades e Conhecimentos</h2>
+        <p>Desenvolvimento em Flutter para aplicativos móveis</p>
+        <p>Manutenção e refatoração em projetos React</p>
+        <p>Trabalho efetivo com sistemas Delphi, HTML e Bootstrap</p>
+        <p>GitLab e Git para versionamento de código</p>
+        <p>Coordenação de tarefas utilizando Trello e sprints</p>
+        <p>Experiência em suporte, com foco em sistemas de ERP e comunicação com clientes</p>
+        <p>Geração de relatórios personalizados com FastReport e PostgreSQL</p>
+        <p>Uso de Pascal para tratativas específicas</p>
+        <p>Desenvolvimento web em React, Typescript, Next</p>
+        <h2>📚 Aprendizado Contínuo</h2>
+        <p>Estou sempre buscando expandir meu conhecimento em programação e enfrentando novos desafios.</p>
     </section>
     );
 };
