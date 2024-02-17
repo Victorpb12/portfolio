@@ -10,7 +10,7 @@ Este projeto é uma representação do meu portfólio, onde destaco meus projeto
 
 - **Seção de Projetos:** Destaque dos projetos mais significativos, com informações sobre cada um.
 - **Sobre Mim:** Breve descrição sobre mim, minhas habilidades e experiência.
-- **Contato:** Formulário ou informações para entrar em contato comigo.
+- **Contato:** Informações para entrar em contato comigo.
 - **Responsividade:** Interface otimizada para diferentes dispositivos.
 
 ## Tecnologias Utilizadas
@@ -18,7 +18,6 @@ Este projeto é uma representação do meu portfólio, onde destaco meus projeto
 - **React:** Biblioteca JavaScript para construção de interfaces.
 - **ViteJS:** Build tool rápida e moderna para projetos web.
 - **Sass (SCSS):** Pré-processador CSS para estilização avançada.
-- **Outras Dependências:** Consulte o arquivo `package.json` para mais detalhes sobre as dependências utilizadas.
 
 ## Como Executar
 
