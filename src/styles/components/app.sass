@@ -1,10 +1,10 @@
 @use '../variables'
 
-#portfolio
+#portfolio 
     display: flex
     flex-wrap: wrap
     padding: 3rem
-    gap:3rem
+    gap: 3rem
     background-image: url('../../img/background.jpg')
     background-size: cover
 
@@ -15,8 +15,32 @@
         margin-bottom: 4rem
         background: variables.$gradient
         -webkit-background-clip: text
-        -webkit-text-fill-color: transparent 
+        -webkit-text-fill-color: transparent
+    
 
-    h2
+    h2 
         width: 100%
         color: variables.$text-color
+    
+
+    // Adicionar regras de mídia para tornar o layout responsivo
+    @media screen and (max-width: 768px) 
+        padding: 2rem
+        gap: 2rem
+
+        h1 
+            font-size: 3.5rem
+            margin-bottom: 2rem
+        
+    
+
+    @media screen and (max-width: 576px) 
+        padding: 1rem
+        gap: 1rem
+
+        h1 
+            font-size: 2.5rem
+            margin-bottom: 1rem
+        
+    
+

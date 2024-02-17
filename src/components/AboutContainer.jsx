@@ -9,10 +9,13 @@ const AboutContainer = () => {
         <p>
         Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unopar, com início em 2023 e previsão de conclusão em 2025. 
         </p>
+        <p>
+        Tenho um conhecimento e entendimento básico de inglês e que estou sempre que posso tentando melhorar, com o objetivo de se tornar fluente no mesmo.
+        </p>
         <h2>🛠️ Expertise Técnica</h2>
         <p>Ao longo de 9 meses, desempenhei um papel fundamental no desenvolvimento de relatórios personalizados para clientes, utilizando ferramentas como FastReport para geração e PostgreSQL para manipulação de dados. Aprofundei meu conhecimento em Pascal para tratamentos específicos, como passagem de parâmetros e funções. A experiência me proporcionou uma compreensão sólida dessas tecnologias, mas estou sempre ansioso para aprender mais e expandir meu domínio em diversas linguagens de programação.
         </p>
-        <p>Atualmente trabalho no desenvolvimento Front-end Web, com expertise em React, Typescript, Redux Toolkit e MUI. Proficiente no uso de ferramentas como Postman e Git para garantir a qualidade e colaboração em projetos.</p>
+        <p>Atualmente trabalho no desenvolvimento Front-end Web, com expertise em React, Typescript, Redux Toolkit e MUI. Proficiente no uso de ferramentas como Postman e Git para garantir a qualidade e colaboração no projeto.</p>
         <h2>🔧 Habilidades e Conhecimentos</h2>
         <p>Desenvolvimento em Flutter para aplicativos móveis</p>
         <p>Manutenção e refatoração em projetos React</p>

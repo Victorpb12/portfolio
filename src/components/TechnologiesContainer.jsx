@@ -4,17 +4,23 @@ import { BiLogoPostgresql } from "react-icons/bi";
 
 import { 
     SiDelphi,
-    SiFlutter 
+    SiFlutter,
+    SiTypescript,
+    SiPostman
 } from "react-icons/si";
 
 import TechReact from '../components/Technologies/TechReact';
 import TechPostgre from './Technologies/TechPostgre';
 import TechDelphi from './Technologies/TechDelphi';
 import TechFlutter from './Technologies/TechFlutter';
+import TechTypescript from './Technologies/TechTypescript';
 
 import '../styles/components/technologiescontainer.sass';
+import TechPostman from './Technologies/TechPostman';
 
 const technologies = [
+    { id: "typescript", name:"Typescript", icon: <SiTypescript/>, description: <TechTypescript/> },
+    { id: "postman", name:"Postman", icon: <SiPostman/>, description: <TechPostman/> },
     { id: "react", name:"React", icon: <DiReact/>, description: <TechReact/> },
     { id: "postgre", name:"PostgreSQL", icon: <BiLogoPostgresql />, description: <TechPostgre/>},
     { id: "flutter", name:"Flutter", icon: <SiFlutter/>, description: <TechFlutter/> },
